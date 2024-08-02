@@ -1,3 +1,28 @@
-[
-
-]
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Buy Items for the Kids",
+      "due_date": 2024-09-01,
+      "priority": "High",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Develop a Study Plan for React Native",
+      "description": "Develop a workable and realistic study plan for React Native",
+      "due_date": 2024-08-01,
+      "priority": "High",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "See Cardiologist",
+      "description": "See the Cardiologist on current symptoms been fought",
+      "due_date": 2024-09-01,
+      "priority": "High",
+      "completed": true
+    }
+  ]
+}
