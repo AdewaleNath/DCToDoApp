@@ -7,6 +7,14 @@
       "due_date": "2024-09-01",
       "priority": "High",
       "completed": true
+    } ,
+    {
+      "id": 2,
+      "title": "Develop a Study Plan for React Native",
+      "description": "Develop a workable and realistic study plan for React Native",
+      "due_date": "2024-08-01",
+      "priority": "High",
+      "completed": true
     }
   ]
 }
